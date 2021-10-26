@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\repos\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.exe
+C:\Users\Ivan\source\repos\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.deps.json
+C:\Users\Ivan\source\repos\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.runtimeconfig.json
+C:\Users\Ivan\source\repos\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.dll
+C:\Users\Ivan\source\repos\veterinaria1\bin\Debug\net5.0-windows\ref\veterinaria1.dll
+C:\Users\Ivan\source\repos\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.pdb
+C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.dll
+C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\ref\veterinaria1.dll
+C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.pdb
+C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.genruntimeconfig.cache
