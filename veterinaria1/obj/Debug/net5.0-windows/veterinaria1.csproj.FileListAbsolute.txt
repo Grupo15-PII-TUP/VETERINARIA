@@ -14,3 +14,37 @@ C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.dl
 C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\ref\veterinaria1.dll
 C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.pdb
 C:\Users\Ivan\source\repos\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.genruntimeconfig.cache
+D:\P\ivan\VETERINARIA\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.exe
+D:\P\ivan\VETERINARIA\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.deps.json
+D:\P\ivan\VETERINARIA\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.runtimeconfig.json
+D:\P\ivan\VETERINARIA\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.runtimeconfig.dev.json
+D:\P\ivan\VETERINARIA\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.dll
+D:\P\ivan\VETERINARIA\veterinaria1\bin\Debug\net5.0-windows\ref\veterinaria1.dll
+D:\P\ivan\VETERINARIA\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.pdb
+D:\P\ivan\VETERINARIA\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.csprojAssemblyReference.cache
+D:\P\ivan\VETERINARIA\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.GeneratedMSBuildEditorConfig.editorconfig
+D:\P\ivan\VETERINARIA\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.AssemblyInfoInputs.cache
+D:\P\ivan\VETERINARIA\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.AssemblyInfo.cs
+D:\P\ivan\VETERINARIA\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.csproj.CoreCompileInputs.cache
+D:\P\ivan\VETERINARIA\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.dll
+D:\P\ivan\VETERINARIA\veterinaria1\obj\Debug\net5.0-windows\ref\veterinaria1.dll
+D:\P\ivan\VETERINARIA\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.pdb
+D:\P\ivan\VETERINARIA\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.genruntimeconfig.cache
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.csprojAssemblyReference.cache
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.csproj.GenerateResource.cache
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.AssemblyInfoInputs.cache
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.AssemblyInfo.cs
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.csproj.CoreCompileInputs.cache
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.dll
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\obj\Debug\net5.0-windows\ref\veterinaria1.dll
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.pdb
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.Presentacion.Form1.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.exe
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.deps.json
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.runtimeconfig.json
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.runtimeconfig.dev.json
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.dll
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\bin\Debug\net5.0-windows\ref\veterinaria1.dll
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\bin\Debug\net5.0-windows\veterinaria1.pdb
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterinaria1\obj\Debug\net5.0-windows\veterinaria1.genruntimeconfig.cache

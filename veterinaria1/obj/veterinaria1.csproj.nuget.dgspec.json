@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan\\source\\repos\\veterinaria1\\veterinaria1.csproj": {}
+    "D:\\GIT\\TP PROG 2\\VETERINARIA  BRANCH_VICTOR\\veterinaria1\\veterinaria1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan\\source\\repos\\veterinaria1\\veterinaria1.csproj": {
+    "D:\\GIT\\TP PROG 2\\VETERINARIA  BRANCH_VICTOR\\veterinaria1\\veterinaria1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\source\\repos\\veterinaria1\\veterinaria1.csproj",
+        "projectUniqueName": "D:\\GIT\\TP PROG 2\\VETERINARIA  BRANCH_VICTOR\\veterinaria1\\veterinaria1.csproj",
         "projectName": "veterinaria1",
-        "projectPath": "C:\\Users\\Ivan\\source\\repos\\veterinaria1\\veterinaria1.csproj",
-        "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\source\\repos\\veterinaria1\\obj\\",
+        "projectPath": "D:\\GIT\\TP PROG 2\\VETERINARIA  BRANCH_VICTOR\\veterinaria1\\veterinaria1.csproj",
+        "packagesPath": "C:\\Users\\bazan\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\TP PROG 2\\VETERINARIA  BRANCH_VICTOR\\veterinaria1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bazan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
